@@ -1,0 +1,15 @@
+
+# Directories and files to ignore when uploading code to floyd
+vgg16_weights.h5
+VQA_MODEL_WEIGHTS.hdf5
+.git
+.eggs
+eggs
+lib
+lib64
+parts
+sdist
+var
+*.pyc
+*.swp
+.DS_Store
