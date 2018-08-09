@@ -1,0 +1,5 @@
+__pycache__
+.DS_Store
+vgg16_weights.h5
+VQA_MODEL_WEIGHTS.hdf5
+*.pyc
